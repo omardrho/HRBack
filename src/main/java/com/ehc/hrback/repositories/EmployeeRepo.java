@@ -1,2 +1,4 @@
-package com.ehc.hrback.repositories;public interface EmployeRepo {
+package com.ehc.hrback.repositories;
+
+public interface EmployeeRepo {
 }
